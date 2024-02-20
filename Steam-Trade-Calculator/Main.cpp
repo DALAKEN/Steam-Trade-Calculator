@@ -13,7 +13,7 @@ public:
 		_marketPrice = 0;
 		_steamPrice = 0;
 		_steamPriceWithoutCommission = 0;
-		_steam_prc = 13;
+		_steam_prc = 15;
 		_pricePrcDiff = 0;
 		_currency = "UAH";
 	}
